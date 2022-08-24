@@ -7,6 +7,7 @@
 ## Ejercicios
 
 - [Crea un repositorio utilizando Git Bash](https://github.com/mlsayucatan/taller-git-github/tree/main/Ejercicios/Intro-git-bash)
+- Ejercicios en proceso :construction_worker:
 
 ## Recursos
 - [Git & GitHub Cheatsheet](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
