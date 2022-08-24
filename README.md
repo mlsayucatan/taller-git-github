@@ -1,10 +1,19 @@
 # Taller de Introducción de Git & GitHub
 
 ## Requerimientos
-
 - Cuenta en [GitHub](https://github.com/)
-- [Git](https://git-scm.com/downloads)
-- [GitHub Desktop](https://desktop.github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/Download)
+- Tener instalado [Git](https://git-scm.com/downloads)
 
-Si aún no tienes instaladas las aplicaciones, te compartimos los enlaces de descarga.
+## Ejercicios
+
+- [Crea un repositorio utilizando Git Bash](https://github.com/mlsayucatan/taller-git-github/tree/main/Ejercicios/Intro-git-bash)
+
+## Recursos
+- [Git & GitHub Cheatsheet](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
+- [Aprende Git de una manera divertida](https://ohmygit.org/)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [GitHub Skills](https://skills.github.com/)
+
+---
+
+Última modificación: Agosto 24, 2022.
